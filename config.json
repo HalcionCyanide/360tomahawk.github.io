@@ -3,9 +3,9 @@
   "username": "360tomahawk",
   "name": "Zheng Qingping",
   "userimg": "https://avatars.githubusercontent.com/u/13763140?v=4",
-  "sort": "pushed",
-  "order": "asc",
-  "includeFork": false,
+  "sort": "updated",
+  "order": "desc",
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
    "owner"
